@@ -106,4 +106,5 @@ export default class MathField {
 
     return mfe;
   }
+
 }

@@ -2,7 +2,7 @@
   "name": "editorjs-mathlive",
   "version": "1.0.0",
   "description": "math editor for editorjs",
-  "repository": "https://github.com/uk2459644/editorjs-mathlive",
+  "repository": "https://github.com/andresen007/editorjs-mathlive",
   "author": {
     "name": "Upendra Kumar",
     "email": "uk2459644@gmail.com"
@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "boxicons": "^2.1.4",
-    "mathlive": "^0.87.0"
+    "mathlive": "^0.98.5"
   }
 }
